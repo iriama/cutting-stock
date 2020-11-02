@@ -1,4 +1,5 @@
-Cutting Stock resolver coded in JAVA using [GLPK 4.65](https://www.gnu.org/software/glpk/) 
+Cutting Stock resolver coded in JAVA using [GLPK 4.65](https://www.gnu.org/software/glpk/).<br />
+Download latest release [here](https://github.com/iriama/cutting-stock/releases).
 
 # Problem
 
