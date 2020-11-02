@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cuttingstock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cuttingstock_jar</output-path>
+    <root id="archive" name="cuttingstock.jar">
+      <element id="module-output" name="aro-cuttingstockv2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/gnu/glpk/glpk-java/1.12.0/glpk-java-1.12.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

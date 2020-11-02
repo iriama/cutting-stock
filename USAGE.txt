@@ -1,0 +1,12 @@
+1) Install GLPK-JAVA callable lib
+
+WINDOWS : run "INSTALL_GLPK_JAVA.bat" as ADMIN
+	or copy dlls from glpk_win32 to C:\Windows\System32
+
+LINUX : run command "sudo apt-get install libglpk-java"
+
+2) Usage
+
+Within console : java -jar cutting_stock.jar [path to .txt problem instance]
+	example : java -jar cutting_stock.jar problems/instance01.txt
+
